@@ -1,4 +1,4 @@
-baseURL = "niihelium.github.io"
+baseURL = "niihelium.github.io/"
 languageCode = "en-us"
 title = "Nikita Unkovsky blog"
 theme = "hyde"
